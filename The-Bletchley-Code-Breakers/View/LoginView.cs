@@ -16,5 +16,10 @@ namespace The_Bletchley_Code_Breakers.View
         {
             InitializeComponent();
         }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
+        }
     }
 }
