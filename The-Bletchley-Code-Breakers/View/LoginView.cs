@@ -21,5 +21,15 @@ namespace The_Bletchley_Code_Breakers.View
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnRegister_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
